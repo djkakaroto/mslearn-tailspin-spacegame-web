@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/diegosl/Space%20Game%20Web/_apis/build/status/djkakaroto.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://dev.azure.com/diegosl/Space%20Game%20Web/_build/latest?definitionId=1&branchName=build-pipeline)
 
 # Contributing
 
